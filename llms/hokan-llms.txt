@@ -1,0 +1,23 @@
+# Hokan
+
+> Hokan, Inc. (株式会社hokan) is a Japanese InsurTech company that builds hokan®, a cloud-based customer and contract management (CRM) system for insurance agencies and brokerages. The platform digitizes proposal, activity, renewal, and accounting workflows for agents. Backed by 500 Global. No public developer portal, OpenAPI, or SDK is published; this is a company record in the API Evangelist network.
+
+## Company
+- [Product site (hokan®)](https://hkn.jp/): Official product website for the hokan® insurance-agency system.
+- [Corporate site](https://www.corp.hkn.jp/): Hokan, Inc. corporate site.
+- [Features / 機能](https://hkn.jp/function/): Product capability overview (CRM, intent capture, case management, accounting).
+- [Login](https://login.hkn.jp/): Application login for hokan® customers.
+
+## Docs
+- [Contact / お問い合わせ](https://hkn.jp/contact/): Sales and support contact.
+- [Privacy Policy](https://www.corp.hkn.jp/privacy-policy): Corporate privacy policy.
+- [Information Security Policy / 情報セキュリティ方針](https://www.corp.hkn.jp/info-security): Published information-security policy.
+
+## News
+- [News / お知らせ](https://hkn.jp/news/): Company announcements.
+- [note blog](https://note.com/hokan_inc/): Company blog on note.
+
+## Social
+- [X (Twitter)](https://x.com/HokanGroup)
+- [Facebook](https://www.facebook.com/hkn.jp/about)
+- [Instagram](https://instagram.com/hokan_official)

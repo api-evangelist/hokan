@@ -1,0 +1,35 @@
+{
+  "repo": "hokan",
+  "feeds": [
+    {
+      "source": "https://hkn.jp/contact/feed/",
+      "feed_url": "https://hkn.jp/contact/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://hkn.jp/news/feed/",
+      "feed_url": "https://hkn.jp/news/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://hkn.jp/contact/",
+      "feed_url": "https://hkn.jp/contact/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://hkn.jp/news/",
+      "feed_url": "https://hkn.jp/news/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 7,
+  "fetched": "2026-07-25T15:00:33Z"
+}
